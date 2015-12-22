@@ -16,7 +16,7 @@ of IRC room instead of a drawing room.
 
 ### Download precompiled binaries
 
-Download them from here: https://www.dropbox.com/s/fzotj6k9x7rmvkp/flockchat-R2015W3510.zip?dl=0
+Download them from here: https://www.dropbox.com/s/vaxwoa9v2mz8elr/flockcon2-B50B20151222.7z?dl=1
 
 Just decompress them anywhere, run the executable, and enjoy.
 
