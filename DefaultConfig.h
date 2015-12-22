@@ -1,0 +1,5 @@
+/* This string contains the content of the default configuration file. 
+	If the program does not find a valid configuration file, it will attempt to
+	create one using this information. */
+
+char ConfigContent[]={"#---------------------------------------------------------------------------\n#-			 Configuration file for the /f/lockcon chat				   	   -\n#---------------------------------------------------------------------------\n# NOTE: Single line jumps and '#' characters are ignored.\n\n# This is the host. If the host changes, or somehow someone releases a \"clone\"\n# server, you can change the host the program connects to in this line:\n\nSERVER= drawserver.skycow.us\n\n# The next integer is the port. By default, 443. Again, if there are changes,\n# you can change it here.\n\nPORT= 443\n\n# The next integer is the MAJOR version number. In case the version of the client\n# changes, you can manually change this line for the number of the version.\n# This should work, unless a new protocol is developed (most unlikely).\n\nVERSION= 32\n"};
